@@ -9,3 +9,13 @@ https://oss-generic.github.io/process/codingStandards/CodingStandard-Java.html
 2.Writing good Java code:
 
 https://developer.ibm.com/tutorials/j-perry-writing-good-java-code/
+
+3.Java Code Conventions by Oracle Corp
+
+Link : https://www.oracle.com/technetwork/java/codeconventions-150003.pdf 
+
+4.Blog for JAVA
+
+https://blogs.oracle.com/java/java
+
+
