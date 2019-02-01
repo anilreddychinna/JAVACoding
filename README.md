@@ -18,4 +18,10 @@ Link : https://www.oracle.com/technetwork/java/codeconventions-150003.pdf
 
 https://blogs.oracle.com/java/java
 
+45.Logging in Java
+
+https://stackify.com/java-logging-best-practices/
+
+
+
 
