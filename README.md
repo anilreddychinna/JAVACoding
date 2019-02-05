@@ -45,6 +45,10 @@ if (log.isDebugEnabled()) {
 log.debug(“User [” + userName + “] called method X with [” + i + “]”);
 }
 
+#Java performance tuning tips
+https://www.javaperformancetuning.com/tips/rawtips.shtml
+
+
 
 
 
