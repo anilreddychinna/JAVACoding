@@ -28,7 +28,8 @@ https://stackify.com/java-logging-best-practices/
 
 8.Try to avoid BigInteger and BigDecimal
 
-9. Check the current log level first
+#Check the current log level first
+--------------------------------------
 This recommendation should be obvious, but unfortunately, you can find lots of code that ignores it. Before you create a debug message, you should always check the current log level first. Otherwise, you might create a String with your log message that will be ignored afterward.
 
 Here are 2 examples of how you should NOT do it.
@@ -46,7 +47,7 @@ log.debug(“User [” + userName + “] called method X with [” + i + “]”
 }
 
 #Java performance tuning tips
-
+-----------------------------------------------------------------------
 
 https://www.javaperformancetuning.com/tips/rawtips.shtml
 
