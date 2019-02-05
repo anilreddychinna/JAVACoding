@@ -49,9 +49,9 @@ log.debug(“User [” + userName + “] called method X with [” + i + “]”
 
 
 https://www.javaperformancetuning.com/tips/rawtips.shtml
---------------------------------------------------------------------------
 
 #To increase the no of process for parallel stream
+--------------------------------------------------------------------------
 
 The Oracle's implementation[1] of parallel stream uses the current thread and in addition to that, if needed, also the threads that compose the default fork join pool ForkJoinPool.commonPool(), which has a default size equal to one less than the number of cores of your CPU.
 
